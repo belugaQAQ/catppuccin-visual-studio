@@ -12740,5 +12740,57 @@
         <Background Type="CT_RAW" Source="7FE6E9EF" />
       </Color>
     </Category>
+
+    <!-- Visual Studio 2026 -->
+    <Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
+      <Color Name="AccentFillDefault">
+        <Background Type="CT_RAW" Source="FF7287FD" /> <!-- Lavender -->
+      </Color> 
+      <Color Name="AccentFillSecondary">
+        <Background Type="CT_RAW" Source="FF7F8BCF" /> <!-- Lavender (Slightly Darkened) -->
+      </Color>
+      <Color Name="AccentFillTertiary">
+        <Background Type="CT_RAW" Source="CC9184EE" /> <!-- Not Cat -->
+      </Color>
+      <Color Name="SolidBackgroundFillTertiary">
+        <Background Type="CT_RAW" Source="FFE6E9EF" /> <!-- Mantle -->
+      </Color>
+      <Color Name="SolidBackgroundFillQuaternary">
+        <Background Type="CT_RAW" Source="FFEFF1F5" /> <!-- Base -->
+      </Color>
+      <Color Name="SurfaceBackgroundFillDefault">
+        <Background Type="CT_RAW" Source="FFDCE0E8" /> <!-- Crust -->
+      </Color>
+      <Color Name="TextFillSecondary">
+        <Background Type="CT_RAW" Source="FF7287FD" /> <!-- Lavender -->
+      </Color>
+      <Color Name="TextFillPrimary">
+        <Background Type="CT_RAW" Source="FF4C4F69" /> <!-- Text -->
+      </Color>
+      <Color Name="TextOnAccentFillPrimary">
+        <Background Type="CT_RAW" Source="FFE6E9EF" /> <!-- Mantle -->
+      </Color>
+      <Color Name="TextOnAccentFillSecondary">
+        <Background Type="CT_RAW" Source="FFE6E9EF" /> <!-- Mantle -->
+      </Color>
+    </Category>
+
+    <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
+      <Color Name="EnvironmentBackground">
+        <Background Type="CT_RAW" Source="FFE6E9EF" /> <!-- Mantle -->
+      </Color>
+      <Color Name="EnvironmentBorder">
+        <Background Type="CT_RAW" Source="FF7287FD" /> <!-- Lavender -->
+      </Color>
+      <Color Name="EnvironmentIndicator">
+        <Background Type="CT_RAW" Source="66757575" /> <!-- Not Cat -->
+      </Color>
+      <Color Name="EnvironmentLogo">
+        <Background Type="CT_RAW" Source="FF9184EE" /> <!-- Not Cat -->
+      </Color>
+      <Color Name="EnvironmentLayeredBackground">
+        <Background Type="CT_RAW" Source="FFE6E9EF" /> <!-- Mantle -->
+      </Color>
+    </Category>    
   </Theme>
 </Themes>

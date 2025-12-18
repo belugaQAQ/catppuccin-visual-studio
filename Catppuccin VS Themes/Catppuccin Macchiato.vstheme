@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Catppuccin Macchiato" GUID="{52937d60-147a-40f6-9dba-8b4ae9b5eeea}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="Catppuccin Macchiato" GUID="{52937d60-147a-40f6-9dba-8b4ae9b5eeea}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF24273A" />
@@ -12739,5 +12739,61 @@
         <Background Type="CT_RAW" Source="7F1E2030" />
       </Color>
     </Category>
+
+    <!-- Visual Studio 2026 -->   
+    <Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
+      <Color Name="AccentFillDefault">
+        <Background Type="CT_RAW" Source="FF7287FD" /> <!-- Lavender -->
+      </Color>
+      <Color Name="AccentFillSecondary">
+        <Background Type="CT_RAW" Source="FF7F8BCF" /> <!-- Lavender (Slightly Darkened) -->
+      </Color>
+      <Color Name="AccentFillTertiary">
+        <Background Type="CT_RAW" Source="CC9184EE" /> <!-- Not Cat -->
+      </Color>
+      <Color Name="SolidBackgroundFillTertiary">
+        <Background Type="CT_RAW" Source="FF1E2030" /> <!-- Mantle -->
+      </Color>
+      <Color Name="SolidBackgroundFillQuaternary">
+        <Background Type="CT_RAW" Source="FF24273A" /> <!-- Base -->
+      </Color>
+      <Color Name="SurfaceBackgroundFillDefault">
+        <Background Type="CT_RAW" Source="FF181926" /> <!-- Crust -->
+      </Color>
+      <Color Name="TextFillSecondary">
+        <Background Type="CT_RAW" Source="FFB7BDf8" /> <!-- Lavender -->
+      </Color>
+      <Color Name="TextFillPrimary">
+        <Background Type="CT_RAW" Source="FFCAD3f5" /> <!-- Text -->
+      </Color>
+      <Color Name="TextOnAccentFillPrimary">
+        <Background Type="CT_RAW" Source="FF1E2030" /> <!-- Mantle -->
+      </Color>
+      <Color Name="TextOnAccentFillSecondary">
+        <Background Type="CT_RAW" Source="FF1E2030" /> <!-- Mantle -->
+      </Color>
+    </Category>
+    
+    <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
+      <Color Name="EnvironmentBackground">
+        <Background Type="CT_RAW" Source="FF1E2030" /> <!-- Mantle -->
+      </Color>
+      <Color Name="EnvironmentBorder">
+        <Background Type="CT_RAW" Source="FFC6A0F6" /> <!-- Mauve -->
+      </Color>
+      <Color Name="EnvironmentIndicator">
+        <Background Type="CT_RAW" Source="66757575" /> <!-- Not Cat -->
+      </Color>
+      <Color Name="EnvironmentLogo">
+        <Background Type="CT_RAW" Source="FF9184EE" /> <!-- Not Cat -->
+      </Color>
+      <Color Name="EnvironmentLayeredBackground">
+        <Background Type="CT_RAW" Source="FF1E2030" /> <!-- Mantle -->
+      </Color>
+    </Category>
+
   </Theme>
 </Themes>
+
+
+
