@@ -11363,6 +11363,9 @@
       <Color Name="TextOnAccentFillSecondary">
         <Background Type="CT_RAW" Source="FF181825" /> <!-- Mantle -->
       </Color>
+      <Color Name="ControlFillDefault">
+        <Background Type="CT_RAW" Source="FF181825" /> <!-- Mantle -->
+      </Color>
     </Category>
 
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
@@ -11379,6 +11382,9 @@
         <Background Type="CT_RAW" Source="FF9184EE" /> <!-- Not Cat -->
       </Color>
       <Color Name="EnvironmentLayeredBackground">
+        <Background Type="CT_RAW" Source="FF181825" /> <!-- Mantle -->
+      </Color>
+      <Color Name="ControlFillDefault">
         <Background Type="CT_RAW" Source="FF181825" /> <!-- Mantle -->
       </Color>
     </Category>
