@@ -2096,7 +2096,7 @@
         <Background Type="CT_RAW" Source="FF292C3C" />
       </Color>
       <Color Name="ComboBoxPopupBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF292C3C" />
+        <Background Type="CT_RAW" Source="FF292C3C" /> <!-- Mantle -->
       </Color>
       <Color Name="DropDownBackground">
         <Background Type="CT_RAW" Source="FF292C3C" />
@@ -2620,7 +2620,7 @@
         <Background Type="CT_RAW" Source="66414559" />
       </Color>
       <Color Name="ScrollBarThumbPressedBackground">
-        <Background Type="CT_RAW" Source="66414559" />
+        <Background Type="CT_RAW" Source="FFC6D0F5" /> <!-- Text -->
       </Color>
       <Color Name="AutoHideResizeGrip">
         <Background Type="CT_RAW" Source="FF484D62" />
@@ -3756,7 +3756,7 @@
         <Background Type="CT_RAW" Source="FF3D3D3D" />
       </Color>
       <Color Name="PageSideBarExpanderSeparator">
-        <Background Type="CT_RAW" Source="FF3D3D3D" />
+        <Background Type="CT_RAW" Source="FF292C3C" /> <!-- Lavender -->
       </Color>
       <Color Name="PageSideBarExpanderText">
         <Background Type="CT_RAW" Source="FFFAFAFA" />
