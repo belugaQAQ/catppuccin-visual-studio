@@ -18,7 +18,7 @@
 ## Previews
 
 <details>
-<summary>🌻 Latte</summary>
+<summary>🌻 Latte </summary>
 <img src="https://raw.githubusercontent.com/catppuccin/visual-studio/main/assets/Catppuccin%20Latte.png"/>
 </details>
 <details>
